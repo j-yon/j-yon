@@ -1,6 +1,9 @@
 <div align="center">
   
 # Jaden Yon
+![Gmail](https://img.shields.io/badge/jadenyon74@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/jaden--yon-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/jadenyon-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 </div>
 
@@ -8,9 +11,9 @@
 - Graduate student at Georgia Tech
 - some other stuff i'll fill in later
 
--------------------
+---
 
-<div align="center">
+<div width="100%">
   
 ### Languages and Tools  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,24 +44,21 @@
 
 </div>
 
--------------------
+---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=j-yon&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="j-yon's GitHub stats" width="100%"></img>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>Contact</h3>
-      <div>
-        <a href="mailto:jadenyon74@gmail.com"><img src="https://img.shields.io/badge/jadenyon74@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></img></a>
-      </div>
-      <div>
-        <a href="www.linkedin.com/in/jaden-yon"><img src="https://img.shields.io/badge/jaden--yon-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></img></a>
-        <a href="https://www.instagram.com/jadenyon/"><img src="https://img.shields.io/badge/jadenyon-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></img></a>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=j-yon&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="j-yon's GitHub stats" width="70%"></img>
+</div>
+
+---
+
+<div align="center" max-width="10px">
+  <p>
+    "It’s not a bug; it’s an undocumented feature."
+  </p>
+  <p align="right">
+    - me, probably
+  </p>
+</div>
 
 Last Edited on: 7/15/2025
